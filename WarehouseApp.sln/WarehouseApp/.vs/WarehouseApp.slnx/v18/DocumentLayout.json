@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Services\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\views\\warehousewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:views\\warehousewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\views\\storagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:views\\storagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\views\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:views\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\views\\organizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:views\\organizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\views\\organizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:views\\organizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\warehouseapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:warehouseapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\invoicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:invoicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\invoicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:invoicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\views\\warehousewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:views\\warehousewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\views\\storagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:views\\storagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\views\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:views\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|c:\\users\\\u043A\u0438\u0440\u0430\\desktop\\9\\ovchinnikova_kira_ipo-32_practica1\\warehouseapp\\warehouseapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2211AC2B-87EE-6E5E-218E-5228C13CC35D}|WarehouseApp.csproj|solutionrelative:warehouseapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseApp_Tests_xUnit\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Invoise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseApp_Tests_xUnit\\WarehouseApp_Tests_xUnit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1763,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseApp_Tests_xUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WarehouseApp_Tests_xUnit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseApp_Tests_xUnit\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WarehouseApp_Tests_xUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAAMwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:24:07.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarehouseWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\WarehouseWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\WarehouseWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\WarehouseWindow.xaml.cs",
+              "RelativeToolTip": "Views\\WarehouseWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T20:44:54.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Category.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:59:57.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Invoise.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Invoise.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Invoise.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Invoise.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Invoise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T09:16:38.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:00:25.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Organization.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Organization.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Organization.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:59:17.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Supplier.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:00:42.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Warehouse.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T08:29:12.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Services\\DataService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Services\\DataService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:04:32.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StorageWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\StorageWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\StorageWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\StorageWindow.xaml.cs",
+              "RelativeToolTip": "Views\\StorageWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:09:29.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "Views\\ProductWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T20:48:59.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrganizationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\OrganizationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\OrganizationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\OrganizationWindow.xaml.cs",
+              "RelativeToolTip": "Views\\OrganizationWindow.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T20:40:32.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrganizationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\OrganizationWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\OrganizationWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\OrganizationWindow.xaml",
+              "RelativeToolTip": "Views\\OrganizationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T20:39:59.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WarehouseApp.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\WarehouseApp.csproj",
+              "RelativeDocumentMoniker": "WarehouseApp.csproj",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\WarehouseApp.csproj",
+              "RelativeToolTip": "WarehouseApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T09:18:37.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WarehouseApp_Tests_xUnit.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseApp_Tests_xUnit\\WarehouseApp_Tests_xUnit.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WarehouseApp_Tests_xUnit\\WarehouseApp_Tests_xUnit.csproj",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseApp_Tests_xUnit\\WarehouseApp_Tests_xUnit.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WarehouseApp_Tests_xUnit\\WarehouseApp_Tests_xUnit.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T09:20:48.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFQHAAAAAAAAAAAewGIHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-05-17T09:20:41.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\source\\repos\\WarehouseData\\Models\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WarehouseData\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:01:01.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:54:59.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T15:55:00.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\InvoiceWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InvoiceWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\InvoiceWindow.xaml.cs",
+              "RelativeToolTip": "InvoiceWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T09:28:41.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\InvoiceWindow.xaml",
+              "RelativeDocumentMoniker": "InvoiceWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\InvoiceWindow.xaml",
+              "RelativeToolTip": "InvoiceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T09:28:04.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T02:05:48.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T10:58:36.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WarehouseWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\WarehouseWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\WarehouseWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\WarehouseWindow.xaml",
+              "RelativeToolTip": "Views\\WarehouseWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T20:44:19.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StorageWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\StorageWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\StorageWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\StorageWindow.xaml",
+              "RelativeToolTip": "Views\\StorageWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T11:05:59.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\ProductWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\Views\\ProductWindow.xaml",
+              "RelativeToolTip": "Views\\ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T20:48:15.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T04:42:16.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WarehouseApp",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\WarehouseApp.csproj",
+              "RelativeDocumentMoniker": "WarehouseApp.csproj",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0430\\Desktop\\9\\Ovchinnikova_Kira_IPo-32_practica1\\WarehouseApp\\WarehouseApp.csproj",
+              "RelativeToolTip": "WarehouseApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-16T03:23:45.631Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1763,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
