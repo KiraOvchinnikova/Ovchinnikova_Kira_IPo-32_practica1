@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../WarehouseApp_Tests_xUnit/WarehouseApp_Tests_xUnit.csproj" />
+  <Project Path="../WarehouseData/WarehouseData.csproj" />
+  <Project Path="WarehouseApp.csproj" />
+</Solution>

@@ -1,0 +1,11 @@
+C:\Users\Кира\source\repos\WarehouseData\bin\Debug\net10.0\WarehouseData.deps.json
+C:\Users\Кира\source\repos\WarehouseData\bin\Debug\net10.0\WarehouseData.dll
+C:\Users\Кира\source\repos\WarehouseData\bin\Debug\net10.0\WarehouseData.pdb
+C:\Users\Кира\source\repos\WarehouseData\obj\Debug\net10.0\WarehouseData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кира\source\repos\WarehouseData\obj\Debug\net10.0\WarehouseData.AssemblyInfoInputs.cache
+C:\Users\Кира\source\repos\WarehouseData\obj\Debug\net10.0\WarehouseData.AssemblyInfo.cs
+C:\Users\Кира\source\repos\WarehouseData\obj\Debug\net10.0\WarehouseData.csproj.CoreCompileInputs.cache
+C:\Users\Кира\source\repos\WarehouseData\obj\Debug\net10.0\WarehouseData.dll
+C:\Users\Кира\source\repos\WarehouseData\obj\Debug\net10.0\refint\WarehouseData.dll
+C:\Users\Кира\source\repos\WarehouseData\obj\Debug\net10.0\WarehouseData.pdb
+C:\Users\Кира\source\repos\WarehouseData\obj\Debug\net10.0\ref\WarehouseData.dll
